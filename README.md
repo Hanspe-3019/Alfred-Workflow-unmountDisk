@@ -1,5 +1,5 @@
 # Alfred-Workflow-unmountDisk
-Alfred workflow to help ejecting devices with mutliple volumes.
+Alfred workflow to help ejecting devices with multiple volumes.
 ![Start](screenshots/start.png)
 
 ![List of devices](screenshots/list.png)
