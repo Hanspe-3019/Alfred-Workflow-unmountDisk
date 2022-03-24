@@ -1,5 +1,9 @@
 # Alfred-Workflow-unmountDisk
 Alfred workflow to help ejecting devices with multiple volumes.
+
+__Warning:__ This Workflow is implemented in Python and uses /usr/bin/python, that is python 2.7 ☹️. Because python 2 is removed from macOS 12.3., use the current version of this workflow, it is contained in my repo ["Collection of my public Alfred Workflows"](https://github.com/Hanspe-3019/workflows). It uses python 3.x 😊. 
+
+
 ![Start](screenshots/start.png)
 
 ![List of devices](screenshots/list.png)
@@ -27,7 +31,7 @@ If no icon file exits, a default icon 💾 will be used. If there are mutliple p
  - MacOs
  - [Alfred](https://www.alfredapp.com) 4.+
 
-Workflow is implemented in Python and uses /usr/bin/python, that is python 2.7 ☹️
+
 ## Installation
 
 Open file __unmount.alfredworkflow__ with Alfred from Finder.
